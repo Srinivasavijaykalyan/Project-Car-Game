@@ -5,7 +5,7 @@ Pygame is highly portable and runs on nearly every platform and operating system
 
 Pygame itself has been downloaded millions of times.
 
-Pygame is free. Released under the LGPL licence, you can create open source, freeware, shareware, and commercial games with it. See the licence for full details.
+Pygame is free. Released under the LGPL licence, you can create open source, freeware, shareware, and commercial games with it. 
 
 For a nice introduction to pygame, examine the line-by-line chimp tutorial, and the introduction for python programmers. buffer, and many other different backends... including an ASCII art backend! OpenGL is often broken on linux systems, and also on windows systems - which is why professional games use multiple backends.
 
